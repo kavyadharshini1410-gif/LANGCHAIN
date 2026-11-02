@@ -1,0 +1,7 @@
+
+prompt_id,template_name,template
+1,General Question,"You are a helpful college assistant. Answer this question clearly: {question}"
+2,Programming Help,"You are a Python programming tutor. Explain with a simple example: {question}"
+3,Exam Preparation,"You are an exam preparation assistant. Give an organized answer with headings: {question}"
+4,Communication Skills,"You are an English communication coach. Give practical and simple advice: {question}"
+5,Summarization,"Summarize the following topic in simple English using important points: {question}"

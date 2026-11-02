@@ -1,0 +1,22 @@
+
+question_id,template_name,question
+1,General Question,What is Artificial Intelligence?
+2,General Question,What is Machine Learning?
+3,General Question,What is Data Science?
+4,General Question,Why is Computer Science important?
+5,Programming Help,What are variables in Python?
+6,Programming Help,Explain loops in Python with an example.
+7,Programming Help,What is a function in Python?
+8,Programming Help,Differentiate between list and tuple.
+9,Exam Preparation,What are the features of DBMS?
+10,Exam Preparation,Explain Machine Learning.
+11,Exam Preparation,What are the advantages of Cloud Computing?
+12,Exam Preparation,What is an Operating System?
+13,Communication Skills,How can I improve my English speaking skills?
+14,Communication Skills,How can I overcome stage fear?
+15,Communication Skills,How should I prepare for an interview?
+16,Communication Skills,What are effective communication skills?
+17,Summarization,Summarize Artificial Intelligence.
+18,Summarization,Summarize the Python programming language.
+19,Summarization,Summarize Data Science.
+20,Summarization,Summarize the role of technology in education.
